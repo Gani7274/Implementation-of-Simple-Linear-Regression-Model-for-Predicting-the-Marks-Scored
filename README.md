@@ -1,5 +1,3 @@
-![hour](https://user-images.githubusercontent.com/105532515/169054053-6cee2974-74ea-4645-be64-8d90e6bccdd8.png)
-![hour](https://user-images.githubusercontent.com/105532515/169054168-3e515bdb-566b-49f3-9cae-e7fc791eef75.png)
 # Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
 ## AIM:
