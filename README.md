@@ -1,3 +1,5 @@
+![hour](https://user-images.githubusercontent.com/105532515/169054053-6cee2974-74ea-4645-be64-8d90e6bccdd8.png)
+![hour](https://user-images.githubusercontent.com/105532515/169054168-3e515bdb-566b-49f3-9cae-e7fc791eef75.png)
 # Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
 ## AIM:
@@ -41,7 +43,10 @@ plt.ylabel("Scores")
 plt.show()
 */
 
-output:
+## OUTPUT:
+![hour](https://user-images.githubusercontent.com/105532515/169054628-ed35e81e-6353-4cea-a05f-ee676f150aac.png)
+![minute (1)](https://user-images.githubusercontent.com/105532515/169055624-80ea49fb-2bb3-4f9b-80d5-ce781df5a001.png)
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
