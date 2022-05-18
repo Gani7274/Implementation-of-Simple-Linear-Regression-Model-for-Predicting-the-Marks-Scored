@@ -7,7 +7,8 @@ To write a program to implement the simple linear regression model for predictin
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
-## Algorithm
+## Algorithm:
+/*
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: ganesh p
 RegisterNumber:  212220040112
